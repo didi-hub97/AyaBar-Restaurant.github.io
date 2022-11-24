@@ -1,0 +1,32 @@
+body {
+    background-color:  lightblue;
+    
+}
+h4{
+    color: navy;
+    font-style: normal;
+    font-size: medium;
+}
+.bg-container {
+    min-height: 100%;
+    min-width: 1024px;
+    width: 100%;
+    height: auto;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    min-height: 200%;
+    background-image: url("assets/images/download.jfif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+footer {
+    border: 0rem;
+}
+
+  /*background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;/
